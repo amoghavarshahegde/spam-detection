@@ -1,0 +1,5 @@
+model,precision,recall,val_f1
+linear_svm,0.9515,0.9703,0.9608
+xgboost,0.951,0.9604,0.9557
+naive_bayes,0.9505,0.9505,0.9505
+logistic_regression,0.875,0.9703,0.9202
