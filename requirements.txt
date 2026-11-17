@@ -1,7 +1,8 @@
-﻿pandas
+pandas
 numpy
 scikit-learn
-nltk
+scipy
+joblib
 matplotlib
 xgboost
 streamlit
