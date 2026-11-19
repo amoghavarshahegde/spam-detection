@@ -1,0 +1,2 @@
+models/distilbert_spam/*.safetensors filter=lfs diff=lfs merge=lfs -text
+models/distilbert_spam/*.bin filter=lfs diff=lfs merge=lfs -text

@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.pkl
+/distilbert_spam/
+*.zip
+
+/models/distilbert_spam/
