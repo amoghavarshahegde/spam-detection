@@ -216,9 +216,13 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+
 # Streamlit
 .streamlit/secrets.toml
 
+# Model and generated files
 *.pkl
+/distilbert_spam/
 distilbert_spam/
 *.zip
+/models/distilbert_spam/
